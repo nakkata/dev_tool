@@ -1,1 +1,0 @@
-# openai_sec3
